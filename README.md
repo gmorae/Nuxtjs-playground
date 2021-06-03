@@ -1,4 +1,4 @@
-# super-blog
+# nuxtjs-playground
 
 ## Build Setup
 
